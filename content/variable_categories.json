@@ -1,0 +1,158 @@
+[
+  {
+    "id": "emotions",
+    "name": "Emotions",
+    "synonyms": ["Emotion", "Feelings"],
+    "description": "Emotions are subjectively perceived mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioural responses, and a degree of pleasure or displeasure",
+    "slug": "emotions"
+  },
+  {
+    "id": "bodymetrics",
+    "name": "Body Metrics",
+    "synonyms": ["Physique", "Anthropometry", "Body Measurements", "Physical Measurements"],
+    "description": "Physical measurements like lengths, masses and percentages of the human body",
+    "slug": "bodymetrics"
+  },
+  {
+    "id": "activities",
+    "name": "Activities",
+    "synonyms": ["Activities", "Activity", "Physical Activity", "Physical Activities"],
+    "description": "Everything regarding movement and engaging muscles like walking time or duration of a workout and Non-physical activities like studying, meditation or reading",
+    "slug": "activities"
+  },
+  {
+    "id": "locations",
+    "name": "Locations",
+    "synonyms": ["Location", "Locations", "Geo-locations", "GPS location"],
+    "description": "Through location information, the amount of time spent at the gym, restaurants, doctors, offices, home and work locations can be correlated with Health effects",
+    "slug": "locations"
+  },
+  {
+    "id": "sleep",
+    "name": "Sleep",
+    "synonyms": ["Bedtime", "Sleeping"],
+    "description": "Sleep is a naturally recurring state of mind and body, characterized by altered consciousness, relatively inhibited sensory activity, reduced muscle activity and inhibition of nearly all voluntary muscles",
+    "slug": "sleep"
+  },
+  {
+    "id": "social",
+    "name": "Social Interactions",
+    "synonyms": ["Social Interactions", "Social Interaction", "Social Media", "Social Behaviour"],
+    "description": "A social relation or social interaction is any relationship between two or more individuals",
+    "slug": "social"
+  },
+  {
+    "id": "vitals",
+    "name": "Vital Signs",
+    "synonyms": ["Vital Signs", "Vital Sign"],
+    "description": "Vital signs include measurements like blood pressure, heart rate, respiratory rate (or pulse), and temperature",
+    "slug": "vitals"
+  },
+  {
+    "id": "symptoms",
+    "name": "Symptoms",
+    "synonyms": ["Symptoms", "Symptom"],
+    "description": "Symptoms are the perceived or observed effects of diseases and conditions to a human being",
+    "slug": "symptoms"
+  },
+  {
+    "id": "nutrition",
+    "name": "Nutrition",
+    "synonyms": ["Nutrients", "Nutrient", "Foods", "Food", "Nutritional Behaviour", "Beverages", "Grocery"],
+    "description": "Everything intaken orally for energy, taste and hydration falls into this category, as well as nutrients, diets and nutritional behaviours, but not additional intakes like supplements and medication",
+    "slug": "nutrition"
+  },
+  {
+    "id": "outcomes",
+    "name": "Outcomes & Goals",
+    "synonyms": ["Goals", "Goal", "Health goals", "Life goals", "Outcomes", "Outcome"],
+    "description": "Outcomes, Health Goals or Goals in general are a description of a desired state of better health or perceived states of a specific symptom to be achievied through interventions",
+    "slug": "outcomes"
+  },
+  {
+    "id": "supplements",
+    "name": "Supplements",
+    "synonyms": ["Supplement"],
+    "description": "Supplements are orally intaken interventions without medical prescription with the purpose of an effect on health or specific conditions",
+    "slug": "supplements"
+  },
+  {
+    "id": "medications",
+    "name": "Medications",
+    "synonyms": ["Medication"],
+    "description": "Medications are orally intaken interventions with medical prescription with the purpose of an effect on diseases or specific conditions",
+    "slug": "medications"
+  },
+  {
+    "id": "therapies",
+    "name": "Therapies",
+    "synonyms": ["Therapy"],
+    "description": "Therapies are non orally intaken treatment activities with the purpose of an effect on health, specific diseases or specific conditions",
+    "slug": "therapies"
+  },
+  {
+    "id": "conditions",
+    "name": "Conditions",
+    "synonyms": ["Conditions", "Condition"],
+    "description": "Disease states or conditions that produce various symptoms",
+    "slug": "conditions"
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "synonyms": ["Environmental"],
+    "description": "Influences to the human body and exposures from the outside like local weather conditions, toxic exposure, Noise",
+    "slug": "environment"
+  },
+  {
+    "id": "digital",
+    "name": "Digital services",
+    "synonyms": [
+      "Software & Mobile Apps",
+      "App",
+      "Software",
+      "Software & Mobile App",
+      "Software Usage",
+      "Electronics",
+      "Electronic devices",
+      "Usage of Applications"
+    ],
+    "description": "Record time spend using specific software, apps or websites. Usage data of electronic devies. Time spent looking at screens or using digital services like Music, TV",
+    "slug": "digital"
+  },
+  {
+    "id": "functions",
+    "name": "Body functions & Functional tests",
+    "synonyms": ["Functional", "Functional Test", "Functional Testing", "Function Testing", "Function Test", "Body functions", "Functions"],
+    "description": "Functioning and disablities of the Human body. Functional tests measure a specific function of the human body like grip strength",
+    "slug": "functions"
+  },
+  {
+    "id": "laboratory",
+    "name": "Laboratory tests & Imaging",
+    "synonyms": ["Laboratory", "Laboratory Test", "Home test results", "Imaging"],
+    "description": "Tests and assays run with biofluids or collected tissue like blood, urine, saliva, stool or through imaging",
+    "slug": "laboratory"
+  },
+  {
+    "id": "life",
+    "name": "Lifestyle & Life events",
+    "synonyms": ["Lifestyle Behaviour", "Behaviour", "Health related behaviours", "Life Events", "Health related life events"],
+    "description": "Health related behaviours and Health related happenings in ones life",
+    "slug": "life"
+  },
+  {
+    "id": "phenotypes",
+    "name": "Phenotypes",
+    "synonyms": ["Appearances"],
+    "description": "Classifications of appearances and observations. Optical or biochemical attributes like ethnicity, skin type, blood type",
+    "slug": "phenotypes"
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "synonyms": ["Miscellaneous", "Uncategorized", "Other"],
+    "description": "Last resort for variables that don't fall into any of the available categories",
+    "slug": "other"
+  }
+]
